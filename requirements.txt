@@ -1,0 +1,4 @@
+Flask>=2.3,<4
+requests>=2.31,<3
+cryptography>=42,<43
+gunicorn>=21.2,<22
